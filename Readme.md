@@ -7,7 +7,7 @@ Short description: A simple project to demonstrate repository structure and usag
 
 ## Features
 - Clear structure for code and docs
-- Easy to run and extend
+- Easy to run and extend  
 - Placeholder content for quick iteration
 
 ## Getting Started
